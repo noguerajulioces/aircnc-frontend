@@ -47,3 +47,12 @@ body, input, button {
   display: flex;
   flex-direction: column;
 }
+
+.content form label{
+  font-size: 14px;
+  color: #444;
+  border: 1px solid #ddd;
+  height: 45px;
+  padding: 0 15px;
+  font-size: 16px;
+}
